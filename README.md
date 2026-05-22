@@ -48,4 +48,4 @@ Sistema fullstack para controle de fluxo de veículos em estacionamentos. Permit
 4. Crie um arquivo `.env` na raiz com:
 ```env
 PORT=3000
-DATABASE_URL="mysql://root@localhost:3306/estacionamento"
+DATABASE_URL="mysql://root@localhost:3306/est_acme"
